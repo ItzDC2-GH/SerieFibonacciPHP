@@ -1,0 +1,25 @@
+#contenido {
+    background-color: #FAFAFA;
+    text-align: center;
+    width: 50%;
+    height: 50%;
+    margin: 0 auto;
+}
+
+input {
+    line-height: 15px;;
+}
+
+label, input {
+    color: #000000;
+}
+
+#boton {
+    padding: 25px;
+    border-radius: 15px;
+    font-size: 1.2em;
+    margin-top: 10px;
+    text-align: center;
+    line-height: 7px;
+    text-decoration: bold;
+}
